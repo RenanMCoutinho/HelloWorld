@@ -6,3 +6,4 @@ Console.WriteLine("Hello, World! I'm testing GitHub!");
 
 var a = 1;
 var b = "float";
+var c = "1f";
